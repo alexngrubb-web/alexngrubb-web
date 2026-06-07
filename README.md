@@ -1,4 +1,4 @@
-## Hi there! 👋
+**Hi there!** 👋
 
 I'm Alex, an aspiring SOC analyst based in England. 
 
@@ -10,8 +10,8 @@ I primarily work on my pc, and my favourite software to work with at the moment 
 
 I have a few projects here, and my favourite is the SOC based detection.
 
-## Fun Facts:
+**Fun Facts:**
 
 - I have a cat (he's a professional hacker)
 - I'm a game completionist, especially with Dark Souls
-- ## Hobbies: anime, games, beating the bad guys
+- **Hobbies:** anime, games, beating the bad guys
