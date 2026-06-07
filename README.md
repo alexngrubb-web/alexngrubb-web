@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**alexngrubb-web/alexngrubb-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex, an aspiring SOC analyst based in England. 
 
-Here are some ideas to get you started:
+I'm currently building a custom, self-hosted SOC dashboard in Elastic with Kibana.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When theres a challenge to take on, I'll be the first to tackle it.
+
+I primarily work on my pc, and my favourite software to work with at the moment is Elastic. However, I am quick to learn new things and can adapt to other software easily.
+
+I have a few projects here, and my favourite is the SOC based detection.
+
+##Fun Facts:
+
+- I have a cat (he's a professional hacker)
+- I'm a game completionist, especially with Dark Souls
+- ## Hobbies: anime, games, beating the bad guys
