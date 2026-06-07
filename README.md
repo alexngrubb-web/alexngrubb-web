@@ -2,9 +2,9 @@
 
 I'm Alex, an aspiring SOC analyst based in England. 
 
-I'm currently building a custom, self-hosted SOC dashboard in Elastic with Kibana.
+Currently exploring compliance and governance frameworks alongside SOC operations to broaden my cybersecurity skillset. 
 
-When theres a challenge to take on, I'll be the first to tackle it.
+When theres a challenge to take on, I'm always the first to take it on.
 
 I primarily work on my pc, and my favourite software to work with at the moment is Elastic. However, I am quick to learn new things and can adapt to other software easily.
 
@@ -16,6 +16,8 @@ I have a few projects here, and my favourite is the SOC based detection.
 - Windows Security, Linux, VMware Workstation Pro
 - Python, SQL
 - Nmap, Wireshark
+
+Learning: ISO 27001, NIST CSF, and security control frameworks.  
 
 ## Fun Facts:
 
