@@ -9,7 +9,7 @@ When theres a challenge to take on, I'll be the first to tackle it.
 I primarily work on my pc, and my favourite software to work with at the moment is Elastic. However, I am quick to learn new things and can adapt to other software easily.
 
 I have a few projects here, and my favourite is the SOC based detection.
-
+  
 ## Tools
 
 - Elastic + Kibana, Sysmon, Winlogbeat
